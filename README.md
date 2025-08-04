@@ -3,10 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&text=Hi👋,I'm%20Piulee%20Mukharjee&color=gradient&height=80" />
 </p>
 
-<!-- 3D-style Animated Dev GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/piuleeMukharjee/assets/main/images/3d-dev-girl.png" alt="3D Developer Girl" width="400" />
-</p>
+
 ---
 
 ## 👋 About Me
